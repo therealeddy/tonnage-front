@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@rocketseat/unform": "^1.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "history": "^4.10.1",
     "json-server": "^0.15.1",
     "prop-types": "^15.7.2",
